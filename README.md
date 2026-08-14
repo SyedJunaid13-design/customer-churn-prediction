@@ -228,24 +228,11 @@ It should be considered a decision-support tool and not a guaranteed prediction 
 
 🌐 Live Demo
 
-Coming soon
+https://syedjunaid-customer-churn.streamlit.app/
 
 👨‍💻 Project
 
 Customer Churn Prediction
 
 An end-to-end Machine Learning project built using Python, Scikit-learn and Streamlit.
-
-
-
-### One thing we'll change later
-
-
-Don't worry about:
-
-
-```text
-YOUR_GITHUB_REPOSITORY_URL
-
-or Live Demo → Coming soon.
 
